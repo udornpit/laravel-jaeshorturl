@@ -2,7 +2,7 @@
 
 ## About JAE-ShortURL
 
-JAE-ShortUR is a code challenge project for JND WEB Co., Ltd., created by Udornpit Saengdee from 2022/03/15 to 2022/03/18.
+JAE-ShortURL is a code challenge project for JND WEB Co., Ltd., created by Udornpit Saengdee from 2022/03/15 to 2022/03/18.
 
 ## Installation Guide
 
