@@ -13,7 +13,7 @@ JAE-ShortUR is a code challenge project for JND WEB Co., Ltd., created by Udornp
 
 For more details or any problems on installing, please feel free to contact me.
 
-## Architechture Design
+## Architecture Design
 
 
 ## License
