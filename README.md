@@ -1,4 +1,4 @@
-<h3 align="center">JAE-ShortURL</h3>
+<h1 align="center"><b>JAE-ShortURL</b></h1>
 
 ## About JAE-ShortUR
 
